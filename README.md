@@ -1,4 +1,4 @@
--- Korax-Inspired Minimalist Client-Sided Skin Changer for Rivals
+-- Client-Sided Skin Changer for Rivals roblox
 local CoreGui = game:Service("CoreGui")
 local Players = game:Service("Players")
 local LocalPlayer = Players.LocalPlayer
